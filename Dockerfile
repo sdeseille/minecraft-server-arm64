@@ -23,6 +23,6 @@ RUN chmod +x start.sh
 
 EXPOSE 25565
 
-VOLUME ["world"]
+VOLUME ["/opt/minecraft/world"]
 
 CMD ["./start.sh"]
