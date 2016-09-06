@@ -1,5 +1,8 @@
 # minecraft-server-arm64
 
+[![Docker Stars](https://img.shields.io/docker/stars/_/ubuntu.svg?maxAge=2592000)](https://hub.docker.com/r/eqw3rty/minecraft-server-arm64/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mashape/kong.svg?maxAge=2592000)](https://hub.docker.com/r/eqw3rty/minecraft-server-arm64/)
+
 Dockerized Minecraft server for ARM64. Image is designed to run on Aarch64 compatible SoC like Raspberry Pi 3, Odroid C2, etc. Based on [minecraft-server][0] and [docker-minecraft][1]. 
 
 ## Installing docker
